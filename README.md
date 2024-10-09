@@ -2,7 +2,7 @@
 
 ### Ambiente de Testes: 
 	
-	https://teste-gabriel-napolis.d25m11dkmgcmi0.amplifyapp.com/
+	https://teste-gabriel-napolis.d32ev5jndkqyh5.amplifyapp.com/
 
 ## 1 - Para esse projeto, foram utilizadas as seguintes tecnologias e versões:
 
